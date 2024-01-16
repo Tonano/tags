@@ -8,7 +8,7 @@ The repository contains wallet tags from TON blockchain.
 
 Wallet info file fields:
 
-- `address`: wallet address
+- `address`: wallet **Bounceable** address
 - `name`: wallet owner
 - `description`: a few sentence summary of the wallet
 - `website`: website related to the wallet
